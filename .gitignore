@@ -1,6 +1,9 @@
 node_modules
 dist
-
-.vscode
-.idea
+coverage
+.git
 *.log
+package-lock.json
+service-account.json
+.env 
+.vscode
